@@ -1,4 +1,3 @@
-# first_trial_flutter_app
 
 A new Flutter project.
 
